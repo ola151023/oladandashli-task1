@@ -1,0 +1,79 @@
+/* NavBar.css */
+.header-area {
+  position: relative;
+  background-color: #fff;
+  height: 100px;
+  z-index: 100;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  line-height: 100px;
+  font-size: 28px;
+  text-transform: uppercase;
+  color: #1e1e1e;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+
+.nav-items {
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  margin-right: 20px;
+  
+}
+.header-area .main-nav .nav-item #one,.header-area .main-nav .nav-item #two,.header-area .main-nav .nav-item #three,.header-area .main-nav .nav-item #four{
+  display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 500;
+    font-size: 15px;
+    height: 40px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #1e1e1e;
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+    border: transparent;
+    letter-spacing: .25px;
+}
+.header-area .main-nav .nav-item #one:hover:hover,.header-area .main-nav .nav-item #two:hover,.header-area .main-nav .nav-item #three:hover,.header-area .main-nav .nav-item #four:hover{
+
+    color:  #f35525;;
+  
+}
+.custom-link {
+  font-weight: 500;
+  font-size: 15px;
+  text-transform: capitalize;
+  color: #1e1e1e;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  
+}
+.header-area .main-nav .nav-item .active{
+  color:  #f35525;;
+}
+.custom-link:hover {
+  color:  #f35525;;
+}
+
+.custom-one .btn {
+  background-color: black;
+  border-radius: 20px;
+}
+
+.custom-one .btn:hover {
+  background-color:      #f35525;;
+}

@@ -1,0 +1,38 @@
+
+
+/* ControlledCarousel.css */
+.carousel-container {
+    position: relative; /* Add position relative to container */
+    margin-bottom: 30px; /* Add margin bottom to create space for the Featured component and footer */
+  }
+  
+  .top-left-caption {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    padding: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    text-wrap: wrap;
+    color: white;
+  }
+  
+  .custom-carousel {
+    height: 500px;
+  }
+  
+  .top-left-caption span.category {
+    background-color: #fff;
+    color: #1e1e1e;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 6px 15px;
+    display: inline-block;
+    margin-bottom: 30px;
+  }
+  
+  .top-left-caption span.category em {
+    font-style: normal;
+    color: #f35525;
+  }

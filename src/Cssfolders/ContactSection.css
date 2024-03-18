@@ -1,0 +1,30 @@
+.contact {
+    background-image: url( "https://www.shutterstock.com/image-photo/resort-blurred-background-600nw-285558611.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 100px 0px 250px 0px;
+    position: relative;
+}
+.section-heading {
+    margin-bottom: 70px;
+}
+.text-center {
+    text-align: center !important;
+}
+.section-heading h6 {
+    color: #ee626b;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.contact .section-heading h2 {
+    color: #fff;
+}
+.section-heading h2 {
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top: 20px;
+    line-height: 56px;
+}

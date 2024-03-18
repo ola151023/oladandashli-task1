@@ -1,0 +1,16 @@
+.left-image a {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    line-height: 110px;
+    background-color: #f35525;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    left: 0;
+    bottom: -55px;
+  top: -30px;
+}
+ /* .left-image img {
+    padding-left: 55px;
+} */

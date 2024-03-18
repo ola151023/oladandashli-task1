@@ -1,0 +1,14 @@
+/* #root {
+  max-width: 100%;
+  margin: 0 0;
+
+
+}
+
+header, nav, section, article, aside, footer, hgroup {
+  display: block;
+}
+ */
+ .section {
+  margin-top: 120px;
+}

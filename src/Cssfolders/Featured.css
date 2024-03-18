@@ -1,0 +1,10 @@
+/* .featured{
+    margin-top: 500px;
+} */
+.featured .left-image img {
+    padding-left: 55px;
+}
+img {
+    width: 100%;
+    overflow: hidden;
+}

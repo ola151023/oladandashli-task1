@@ -1,0 +1,88 @@
+.section-heading h6 {
+    color: #ee626b;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.section-heading h2 {
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top: 20px;
+    line-height: 56px;
+}
+.text-center {
+    text-align: center !important;
+}
+.section-heading {
+    margin-bottom: 70px;
+}
+.properties .item {
+    background-color: #fafafa;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.properties .item .myImg {
+    border-radius: 10px;
+}
+.properties .item span.category {
+    background-color: #fbd9cf;
+    font-weight: 500;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #1e1e1e;
+    padding: 5px 12px;
+    display: inline-block;
+    margin-top: 25px;
+}
+.properties .item .price {
+    font-size: 20px;
+    color: #f35525;
+    margin-top: 6px;
+    display: inline-block;
+
+    margin-top: 30px;
+}
+.properties .item h4 a {
+    color: #1e1e1e;
+}
+.properties .item ul {
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+.properties .item ul li {
+    display: inline-block;
+    font-size: 15px;
+    color: #4a4a4a;
+    margin-right: 20px;
+}
+.properties .item ul li span {
+    font-weight: 600;
+    color: #1e1e1e;
+}
+
+.properties .item div.main-button {
+    text-align: center;
+}
+.properties .item ul li span {
+    font-weight: 600;
+    color: #1e1e1e;
+}
+.main-button a:hover {
+    background-color: #f35525;
+    color: #fff;
+}
+.main-button a {
+    display: inline-block;
+    background-color: #1e1e1e;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 40px;
+    padding: 0px 30px;
+    border-radius: 25px;
+    transition: all .3s;
+}
